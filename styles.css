@@ -35,12 +35,12 @@ h1, h2 {
     color: white;
     text-align: center;
 }
-.top_2_img img{
+.top_3_img img{
     height: 40%;
     width: 40%;
     border: 10px double #4b540ebf;
 }
-.top_2_img {
+.top_3_img {
     display: flex;
     justify-content: space-around;
 }
