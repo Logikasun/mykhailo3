@@ -25,12 +25,12 @@ h1, h2 {
     color: white;
     text-align: center;
 }
-.top_2_img img{
+.top_3_img img{
     height: 200px;
     width: 200px;
 }
 
-.top_2_img{
+.top_3_img{
     display: flex;
     justify-content: center;
 }
